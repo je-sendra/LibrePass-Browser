@@ -23,10 +23,10 @@ All contributions are welcome. Please, open an issue or make a pull request if y
 
 This is the tech stack used by the app:
 
-- Technology X
-- Language X
-- Technology X
-- XXXXXXX
+- React
+- TypeScript
+- HTML5
+- Bootstrap
 
 ## Code Conventions
 
