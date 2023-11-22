@@ -23,10 +23,10 @@ All contributions are welcome. Please, open an issue or make a pull request if y
 
 This is the tech stack used by the app:
 
-- React
+- Svelte
 - TypeScript
 - HTML5
-- Bootstrap
+- Tailwind CSS
 
 ## Code Conventions
 
