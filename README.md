@@ -9,6 +9,7 @@ Planned features for LibrePass-Browser include:
 - [ ] **Access your secrets**: Access your secured secrets directly from your browser.
 - [ ] **Autocompletion**: Will automatically fill in your credentials for you.
 - [ ] **Password detection**: Will detect when you create a new account and ask you if you want to save the password.
+- [ ] **Self-host support**: Will support self-hosted instances of LibrePass.
 
 ## Usage
 
