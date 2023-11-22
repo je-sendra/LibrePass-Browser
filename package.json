@@ -1,0 +1,20 @@
+{
+  "name": "librepass-browser",
+  "version": "0.0.1",
+  "description": "LibrePass-Browser is a browser extension for LibrePass. It allows you to easily access your passwords from your browser.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0"
+  }
+}
