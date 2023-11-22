@@ -1,30 +1,18 @@
-# Repo-Template
+# LibrePass-Browser
 
-Repo-Template is a template for new repositories.
+LibrePass-Browser is a browser extension for LibrePass. It allows you to easily access your passwords from your browser.
 
 ## Features
 
-Planned features for Repo-Template include:
+Planned features for LibrePass-Browser include:
 
-- [x] **Feature 1**: It does this!
-
-- [ ] **Feature 2**: Will do this!
-
-- [ ] **Feature 3**: Also this!
-
-## Access
-
-You can access the app from https://example.com/
-
-Swagger sheet for API endpoint available at https://example-2/
-
-## Installation
-
-Do this to install the app.
+- [ ] **Access your secrets**: Access your secured secrets directly from your browser.
+- [ ] **Autocompletion**: Will automatically fill in your credentials for you.
+- [ ] **Password detection**: Will detect when you create a new account and ask you if you want to save the password.
 
 ## Usage
 
-To use the app, we recommend doing this.
+There is no usage information available yet.
 
 ## Contributions
 
@@ -33,6 +21,7 @@ All contributions are welcome. Please, open an issue or make a pull request if y
 ## Tech Stack
 
 This is the tech stack used by the app:
+
 - Technology X
 - Language X
 - Technology X
@@ -44,4 +33,4 @@ This repository follows the XXX code conventions.
 
 ## License
 
-Repo-Template is licensed under the standard MIT license.
+LibrePass-Browser is licensed under the standard AGPLv3.0 license.

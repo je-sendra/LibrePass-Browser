@@ -23,13 +23,12 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: version
     attributes:
       label: Version
       description: Which version of our software are you using?
-      options:
-        - 0.0.0
+      placeholder: 1.0.0
     validations:
       required: true
   - type: dropdown
